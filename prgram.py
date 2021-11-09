@@ -1,2 +1,2 @@
 print('aminul islam')
-print('12+5=', 12+7)
+print('10+5=', 10+7)
